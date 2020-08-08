@@ -1,3 +1,5 @@
+simplify v1.7.17 legacy
+
 # simpl.fyi
 
 A browser extension that brings the simplicity of Google Inbox to Gmail.
